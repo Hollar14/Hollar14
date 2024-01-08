@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawal Isa Oladipupo</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw130PKV7gQuStKHGskx7wPK&ust=1704792939619000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjgp-i-zYMDFQAAAAAdAAAAABAE" alt="hollar14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hollar14" alt="hollar14" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap, React.**
 
